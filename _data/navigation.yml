@@ -6,11 +6,11 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.co.uk/citations?user=4LuGXtEAAAAJ&hl=en
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "CV"
-    url: /cv/
+    url: /files/cv_ioanna.pdf
   
