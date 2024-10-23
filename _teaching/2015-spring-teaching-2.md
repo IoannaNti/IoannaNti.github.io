@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Machine Learning ECS708"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate and Postgraduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Queen Mary University of London"
+date: 2021,2022
+location: "London, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+As a demonstrator for ECS708, I was responsible for leading demonstrations and grading assignments.
