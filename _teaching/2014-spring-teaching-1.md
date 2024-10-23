@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Neural Networks & Deep Learning (ECS659U/P/A)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Queen Mary University of London"
+date: 2021, 2022, 2023, 2024
+location: "London, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+As a senior demonstrator for ECS659U/P/A, I was responsible for demonstrating, grading, reviewing lesson materials, and providing feedback on assignments during these years.. 
