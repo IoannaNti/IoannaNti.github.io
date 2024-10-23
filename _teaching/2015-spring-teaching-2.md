@@ -1,12 +1,12 @@
 ---
-title: "Neural Networks & Deep Learning ECS659U"
+title: "Machine Learning ECS708"
 collection: teaching
-type: "Undergraduate, Postgraduate, Apprenticeship course"
+type: "Undergraduate and Postgraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Queen Mary University of London"
-date: 2021, 2022, 2023, 2024
+date: 2021, 2022
 location: "London, UK"
 ---
 
-As a senior demonstrator for ECS659U/P/A, I was responsible for demonstrating, grading, reviewing lesson materials, and providing feedback on assignments during these years.
+As a demonstrator for ECS708, I was responsible for demonstrating and marking assignments. 
 
