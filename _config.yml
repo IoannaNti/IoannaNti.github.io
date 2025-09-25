@@ -8,27 +8,28 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ioanna's Homepage"
-title_separator          : "-"
+title                    : "Ioanna Ntinou"   # shows up in browser tab
+title_separator          : "-"               # gives "Ioanna Ntinou - Publications"
 name                     : &name "Ioanna Ntinou"
-description              : &description "personal description"
-url                      : https://IoannaNti.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+description              : &description "Postdoctoral Researcher at Queen Mary University of London. Research on energy-efficient AI, Vision–Language Models, and Green AI."
+url                      : "https://IoannaNtinou.github.io"  # make sure it matches your GitHub Pages URL
+baseurl                  : ""                # leave empty unless your site lives in a subdirectory
+repository               : "IoannaNtinou/IoannaNtinou.github.io"  # point to your repo, not academicpages
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
+
 author:
-  # Biographic information
-  avatar           : "me.jpg"
-  name             : "Ioanna Ntinou"
-  pronouns         : # example: "she/her"  
-  bio              : "Research fellow working on the RAIDO project at Queen Mary University of London."
-  location         : "London, UK"
-  employer         : "Queen Mary University of London"
-  uri              : # URL
-  email            : "i.ntinou@qmul.ac.uk" 
+  avatar: "me.jpg"   # place your headshot in /images/
+  name: "Ioanna Ntinou"
+  bio: "Postdoctoral Researcher at Queen Mary University of London."
+  location: "London, UK"
+  email: "i.ntinou@qmul.ac.uk"
+
+
+
+  site: "https://IoannaNtinou.github.io"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
