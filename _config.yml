@@ -7,72 +7,27 @@
 # server process.
 
 # Basic Site Settings
+# Basic Site Settings
 locale                   : "en-US"
-title                    : "Ioanna Ntinou"   # shows up in browser tab
-title_separator          : "-"               # gives "Ioanna Ntinou - Publications"
+title                    : "Ioanna Ntinou"
+title_separator          : "-"
 name                     : &name "Ioanna Ntinou"
-description              : &description "Postdoctoral Researcher at Queen Mary University of London. Research on energy-efficient AI, Vision–Language Models, and Green AI."
-url                      : "https://IoannaNtinou.github.io"  # make sure it matches your GitHub Pages URL
-baseurl                  : ""                # leave empty unless your site lives in a subdirectory
-repository               : "IoannaNtinou/IoannaNtinou.github.io"  # point to your repo, not academicpages
-
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+description              : &description "Postdoctoral Researcher at QMUL | Energy-efficient AI, Vision–Language Models, Green AI"
+url                      : "https://IoannaNtinou.github.io"
+baseurl                  : ""
+repository               : "IoannaNtinou/IoannaNtinou.github.io"
 
 author:
-  avatar: "me.jpg"   # place your headshot in /images/
-  name: "Ioanna Ntinou"
-  bio: "Postdoctoral Researcher at Queen Mary University of London."
-  location: "London, UK"
-  email: "i.ntinou@qmul.ac.uk"
-
-
-
-  site: "https://IoannaNtinou.github.io"
-
-  # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.co.uk/citations?user=4LuGXtEAAAAJ&hl=en"
-  impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0001-6634-455X"
-  semantic         : # URL
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "IoannaNti"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
-  # Social media
-  bluesky          : # "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  avatar   : "me.jpg"
+  name     : "Ioanna Ntinou"
+  bio      : "Postdoctoral Researcher at QMUL, working on the RAIDO project. Focus on energy-efficient AI and Vision–Language Models."
+  location : "London, UK"
+  email    : "i.ntinou@qmul.ac.uk"
+  site     : "https://IoannaNtinou.github.io"
+  googlescholar: "https://scholar.google.co.uk/citations?user=4LuGXtEAAAAJ&hl=en"
+  orcid        : "https://orcid.org/0000-0001-6634-455X"
+  github       : "IoannaNti"
+  linkedin     : "ioanna-ntinou-96a162126"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
